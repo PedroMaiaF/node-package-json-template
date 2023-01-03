@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Aula Node-Package-Json",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "brazil": "node index.js Brazil",
+    "vazio": "node index.js",
+    "busca": "node buscarPorLetraInicial.js b",
+    "addpais": "node addPais.js Pedrolandia BR"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
